@@ -1,4 +1,4 @@
-// Button example
+// Button examples
 
 import React, {useState} from 'react';
 
