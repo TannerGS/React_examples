@@ -2,7 +2,7 @@
 
 import React, {useState} from 'react';
 
-function Button() {
+const Button = () => {
     const [counter, setCounter] = useState(0);
 
     return (

@@ -1,6 +1,6 @@
 // Ticking clock component
 
-function Clock() {
+const Clock = () => {
     return (
         <div className="App">
             <h1>Ticking Clock</h1>
